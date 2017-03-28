@@ -1,0 +1,10 @@
+[package]
+name = "condenser"
+version = "0.1.0"
+authors = ["Max Dubrinsky <mdubrinsky@arbor.net>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+rustc-serialize = "*"
+steam = { path = "../steam" }

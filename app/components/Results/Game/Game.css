@@ -1,0 +1,25 @@
+.container {
+  display: inline-table;
+  width: 90px;
+}
+
+.info {
+  width: 240px;
+  height: 80px;
+}
+
+.info dt {
+  float: left;
+}
+
+.info dd {
+  margin-left: 80px;
+}
+
+.icon {
+}
+
+.icon img {
+  object-fit: contain;
+  height: 90px;
+}
